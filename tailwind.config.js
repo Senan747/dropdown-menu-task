@@ -64,6 +64,7 @@ module.exports = {
         "gega-star": "#FFC000",
         "gega-bg": "#B59677",
         "gega-light-grey": "#DBDBDB",
+        "gega-dark-blue": "#242B58"
       },
       backgroundImage: {
         pattern: "url('/pattern.png')",
